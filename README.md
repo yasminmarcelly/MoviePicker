@@ -37,7 +37,7 @@ O projeto foi criado com o objetivo de colocar em prática conhecimentos de CSS 
 ## ⚡ Tecnologias
 
 - HTML5, CSS3
-- JavaScript (Vanilla)
+- JavaScript
 - API: [TMDB](https://www.themoviedb.org/)
 - Fontes customizadas: PressStart2P e Inter
 
@@ -47,5 +47,9 @@ O projeto foi criado com o objetivo de colocar em prática conhecimentos de CSS 
 
 1. Clone o repositório:
 git clone https://github.com/seu-usuario/MoviePicker.git
-2.Abra index.html no navegador.
-3.Clique em "Clique aqui para descobrir!".
+
+2. Abra index.html no navegador.
+
+3. Clique em "Clique aqui para descobrir!".
+
+
